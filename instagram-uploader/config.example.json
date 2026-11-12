@@ -1,0 +1,18 @@
+{
+  "folder": "E:\\DCIM\\100MEDIA",
+  "username": "YOUR_INSTAGRAM_USERNAME",
+  "password": "YOUR_INSTAGRAM_PASSWORD",
+  "session_file": "instagram_session.json",
+  "state_file": "upload_state.json",
+  "mode": "per-city",
+  "dry_run": true,
+  "delay_seconds": 90,
+  "max_album_size": 10,
+  "include_videos": true,
+  "extensions": [".jpg", ".jpeg", ".png", ".mp4", ".mov"],
+  "caption_hashtags": true,
+  "tag_location": true,
+  "only_countries": [],
+  "skip_countries": [],
+  "limit": 0
+}
